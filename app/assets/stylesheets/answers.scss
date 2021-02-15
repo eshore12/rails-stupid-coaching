@@ -1,3 +1,31 @@
 // Place all the styles related to the answers controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.container {
+  width: 600px;
+  justify-content: space-evenly;
+}
+
+h1 {
+  text: center;
+}
+
+h3 {
+  padding: 16px;
+  align-items: center;
+}
+
+.btn {
+  margin-left: 32px;
+}
+
+form {
+  margin-left: 20px;
+}
+
+img {
+  margin-left: 100px;
+  width: 200px;
+  height: auto;
+}
